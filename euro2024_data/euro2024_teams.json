@@ -1,0 +1,102 @@
+[
+    {
+        "team_id": 1,
+        "name": "Germany",
+        "rating": 85
+    },
+    {
+        "team_id": 2,
+        "name": "France",
+        "rating": 90
+    },
+    {
+        "team_id": 3,
+        "name": "Spain",
+        "rating": 91
+    },
+    {
+        "team_id": 4,
+        "name": "Italy",
+        "rating": 87
+    },
+    {
+        "team_id": 5,
+        "name": "Portugal",
+        "rating": 89
+    },
+    {
+        "team_id": 6,
+        "name": "Netherlands",
+        "rating": 86
+    },
+    {
+        "team_id": 7,
+        "name": "Belgium",
+        "rating": 88
+    },
+    {
+        "team_id": 8,
+        "name": "England",
+        "rating": 89
+    },
+    {
+        "team_id": 9,
+        "name": "Switzerland",
+        "rating": 84
+    },
+    {
+        "team_id": 10,
+        "name": "Denmark",
+        "rating": 85
+    },
+    {
+        "team_id": 11,
+        "name": "Sweden",
+        "rating": 83
+    },
+    {
+        "team_id": 12,
+        "name": "Poland",
+        "rating": 82
+    },
+    {
+        "team_id": 13,
+        "name": "Turkey",
+        "rating": 81
+    },
+    {
+        "team_id": 14,
+        "name": "Croatia",
+        "rating": 84
+    },
+    {
+        "team_id": 15,
+        "name": "Russia",
+        "rating": 80
+    },
+    {
+        "team_id": 16,
+        "name": "Austria",
+        "rating": 79
+    },
+    {
+        "team_id": 17,
+        "name": "Czech Republic",
+        "rating": 78
+    },
+    {
+        "team_id": 18,
+        "name": "Ukraine",
+        "rating": 77
+    },
+    {
+        "team_id": 19,
+        "name": "Wales",
+        "rating": 76
+    },
+    {
+        "team_id": 20,
+        "name": "Scotland",
+        "rating": 75
+    }
+]

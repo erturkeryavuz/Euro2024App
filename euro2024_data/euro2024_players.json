@@ -1,0 +1,1982 @@
+[
+    {
+        "player_id": 1,
+        "name": "Manuel Neuer",
+        "position": "Goalkeeper",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 90,
+        "imageName": "Manuel Neuer.jpeg"
+    },
+    {
+        "player_id": 2,
+        "name": "Joshua Kimmich",
+        "position": "Right Back",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 88,
+        "imageName": "Joshua Kimmich.jpeg"
+    },
+    {
+        "player_id": 3,
+        "name": "Mats Hummels",
+        "position": "Center Back",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 85,
+        "imageName": "Mats Hummels.jpeg"
+    },
+    {
+        "player_id": 4,
+        "name": "Antonio Rudiger",
+        "position": "Center Back",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 84,
+        "imageName": "Antonio Rudiger.jpeg"
+    },
+    {
+        "player_id": 5,
+        "name": "Robin Gosens",
+        "position": "Left Back",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 82,
+        "imageName": "Robin Gosens.jpeg"
+    },
+    {
+        "player_id": 6,
+        "name": "Leon Goretzka",
+        "position": "Center Midfielder",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 86,
+        "imageName": "Leon Goretzka.jpeg"
+    },
+    {
+        "player_id": 7,
+        "name": "Ilkay Gundogan",
+        "position": "Center Midfielder",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 85,
+        "imageName": "Ilkay Gundogan.jpeg"
+    },
+    {
+        "player_id": 8,
+        "name": "Thomas Muller",
+        "position": "Attacking Midfielder",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 87,
+        "imageName": "Thomas Muller.jpeg"
+    },
+    {
+        "player_id": 9,
+        "name": "Serge Gnabry",
+        "position": "Right Winger",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 86,
+        "imageName": "Serge Gnabry.jpeg"
+    },
+    {
+        "player_id": 10,
+        "name": "Timo Werner",
+        "position": "Striker",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 84,
+        "imageName": "Timo Werner.jpeg"
+    },
+    {
+        "player_id": 11,
+        "name": "Leroy Sane",
+        "position": "Left Winger",
+        "team_id": 1,
+        "country": "Germany",
+        "rating": 85,
+        "imageName": "Leroy Sane.jpeg"
+    },
+    {
+        "player_id": 12,
+        "name": "Hugo Lloris",
+        "position": "Goalkeeper",
+        "team_id": 2,
+        "country": "France",
+        "rating": 89,
+        "imageName": "Hugo Lloris.jpeg"
+    },
+    {
+        "player_id": 13,
+        "name": "Raphael Varane",
+        "position": "Center Back",
+        "team_id": 2,
+        "country": "France",
+        "rating": 87,
+        "imageName": "Unknown.jpg"
+    },
+    {
+        "player_id": 14,
+        "name": "Presnel Kimpembe",
+        "position": "Center Back",
+        "team_id": 2,
+        "country": "France",
+        "rating": 84,
+        "imageName": "Presnel Kimpembe.jpeg"
+    },
+    {
+        "player_id": 15,
+        "name": "Benjamin Pavard",
+        "position": "Right Back",
+        "team_id": 2,
+        "country": "France",
+        "rating": 82,
+        "imageName": "pavard.jpg"
+    },
+    {
+        "player_id": 16,
+        "name": "Lucas Hernandez",
+        "position": "Left Back",
+        "team_id": 2,
+        "country": "France",
+        "rating": 83,
+        "imageName": "Lucas Hernandez.jpeg"
+    },
+    {
+        "player_id": 17,
+        "name": "N'Golo Kante",
+        "position": "Defensive Midfielder",
+        "team_id": 2,
+        "country": "France",
+        "rating": 88,
+        "imageName": "kante.jpg"
+    },
+    {
+        "player_id": 18,
+        "name": "Paul Pogba",
+        "position": "Center Midfielder",
+        "team_id": 2,
+        "country": "France",
+        "rating": 87,
+        "imageName": "Paul Pogba.jpeg"
+    },
+    {
+        "player_id": 19,
+        "name": "Antoine Griezmann",
+        "position": "Attacking Midfielder",
+        "team_id": 2,
+        "country": "France",
+        "rating": 86,
+        "imageName": "Griezmann.jpg"
+    },
+    {
+        "player_id": 20,
+        "name": "Kylian Mbappe",
+        "position": "Left Winger",
+        "team_id": 2,
+        "country": "France",
+        "rating": 90,
+        "imageName": "mbappe.jpg"
+    },
+    {
+        "player_id": 21,
+        "name": "Karim Benzema",
+        "position": "Striker",
+        "team_id": 2,
+        "country": "France",
+        "rating": 89,
+        "imageName": "Karim Benzema.jpeg"
+    },
+    {
+        "player_id": 22,
+        "name": "Kingsley Coman",
+        "position": "Right Winger",
+        "team_id": 2,
+        "country": "France",
+        "rating": 85,
+        "imageName": "coman.jpg"
+    },
+    {
+        "player_id": 331,
+        "name": "Tomas Vaclik",
+        "position": "Goalkeeper",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 82,
+        "imageName": "tomas vaclik.jpg"
+    },
+    {
+        "player_id": 332,
+        "name": "Vladimir Coufal",
+        "position": "Right Back",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 81,
+        "imageName": "coufal.jpg"
+    },
+    {
+        "player_id": 333,
+        "name": "Ondrej Celustka",
+        "position": "Center Back",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 79,
+        "imageName": "ondrej celustka.jpg"
+    },
+    {
+        "player_id": 334,
+        "name": "Tomas Kalas",
+        "position": "Center Back",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 80,
+        "imageName": "tomas kalas.jpg"
+    },
+    {
+        "player_id": 335,
+        "name": "Jan Boril",
+        "position": "Left Back",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 78,
+        "imageName": "Jan Boril.jpeg"
+    },
+    {
+        "player_id": 336,
+        "name": "Tomas Soucek",
+        "position": "Defensive Midfielder",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 83,
+        "imageName": "soucek.jpg"
+    },
+    {
+        "player_id": 337,
+        "name": "Alex Kral",
+        "position": "Central Midfielder",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 80,
+        "imageName": "Alex Kral.jpeg"
+    },
+    {
+        "player_id": 338,
+        "name": "Jakub Jankto",
+        "position": "Central Midfielder",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 81,
+        "imageName": "Jakub Jankto.jpeg"
+    },
+    {
+        "player_id": 339,
+        "name": "Lukas Masopust",
+        "position": "Right Winger",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 79,
+        "imageName": "Lukas Masopust.jpeg"
+    },
+    {
+        "player_id": 340,
+        "name": "Patrik Schick",
+        "position": "Striker",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 84,
+        "imageName": "schick.jpg"
+    },
+    {
+        "player_id": 341,
+        "name": "Adam Hlozek",
+        "position": "Left Winger",
+        "team_id": 17,
+        "country": "Czech Republic",
+        "rating": 78,
+        "imageName": "hlozek.jpg"
+    },
+    {
+        "player_id": 34,
+        "name": "Gianluigi Donnarumma",
+        "position": "Goalkeeper",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 89,
+        "imageName": "donnarumma.jpg"
+    },
+    {
+        "player_id": 35,
+        "name": "Leonardo Bonucci",
+        "position": "Center Back",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 85,
+        "imageName": "Leonardo Bonucci.jpeg"
+    },
+    {
+        "player_id": 36,
+        "name": "Giorgio Chiellini",
+        "position": "Center Back",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 87,
+        "imageName": "Giorgio Chiellini.jpeg"
+    },
+    {
+        "player_id": 37,
+        "name": "Alessandro Florenzi",
+        "position": "Right Back",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 84,
+        "imageName": "Alessandro Florenzi.jpeg"
+    },
+    {
+        "player_id": 38,
+        "name": "Emerson Palmieri",
+        "position": "Left Back",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 82,
+        "imageName": "Emerson Palmieri.jpeg"
+    },
+    {
+        "player_id": 39,
+        "name": "Marco Verratti",
+        "position": "Center Midfielder",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 87,
+        "imageName": "veratti.jpeg"
+    },
+    {
+        "player_id": 40,
+        "name": "Jorginho",
+        "position": "Defensive Midfielder",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 86,
+        "imageName": "Jorginho.jpeg"
+    },
+    {
+        "player_id": 41,
+        "name": "Nicolo Barella",
+        "position": "Center Midfielder",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 85,
+        "imageName": "barella.jpg"
+    },
+    {
+        "player_id": 42,
+        "name": "Federico Chiesa",
+        "position": "Right Winger",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 85,
+        "imageName": "chiesa.jpg"
+    },
+    {
+        "player_id": 43,
+        "name": "Lorenzo Insigne",
+        "position": "Left Winger",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 86,
+        "imageName": "Lorenzo Insigne.jpeg"
+    },
+    {
+        "player_id": 44,
+        "name": "Ciro Immobile",
+        "position": "Striker",
+        "team_id": 4,
+        "country": "Italy",
+        "rating": 87,
+        "imageName": "Ciro Immobile.jpeg"
+    },
+    {
+        "player_id": 45,
+        "name": "Jordan Pickford",
+        "position": "Goalkeeper",
+        "team_id": 8,
+        "country": "England",
+        "rating": 83,
+        "imageName": "Jordan Pickford.jpg"
+    },
+    {
+        "player_id": 46,
+        "name": "Harry Maguire",
+        "position": "Center Back",
+        "team_id": 8,
+        "country": "England",
+        "rating": 82,
+        "imageName": "Harry Maguire.jpeg"
+    },
+    {
+        "player_id": 47,
+        "name": "John Stones",
+        "position": "Center Back",
+        "team_id": 8,
+        "country": "England",
+        "rating": 84,
+        "imageName": "John Stones.jpeg"
+    },
+    {
+        "player_id": 48,
+        "name": "Luke Shaw",
+        "position": "Left Back",
+        "team_id": 8,
+        "country": "England",
+        "rating": 85,
+        "imageName": "Luke Shaw.jpg"
+    },
+    {
+        "player_id": 49,
+        "name": "Kyle Walker",
+        "position": "Right Back",
+        "team_id": 8,
+        "country": "England",
+        "rating": 84,
+        "imageName": "Kyle Walker.jpg"
+    },
+    {
+        "player_id": 50,
+        "name": "Declan Rice",
+        "position": "Defensive Midfielder",
+        "team_id": 8,
+        "country": "England",
+        "rating": 85,
+        "imageName": "Rice.jpg"
+    },
+    {
+        "player_id": 51,
+        "name": "Jordan Henderson",
+        "position": "Center Midfielder",
+        "team_id": 8,
+        "country": "England",
+        "rating": 84,
+        "imageName": "Jordan Henderson.jpeg"
+    },
+    {
+        "player_id": 52,
+        "name": "Mason Mount",
+        "position": "Attacking Midfielder",
+        "team_id": 8,
+        "country": "England",
+        "rating": 83,
+        "imageName": "Mason Mount.jpeg"
+    },
+    {
+        "player_id": 53,
+        "name": "Harry Kane",
+        "position": "Striker",
+        "team_id": 8,
+        "country": "England",
+        "rating": 90,
+        "imageName": "Harry Kane.jpg"
+    },
+    {
+        "player_id": 54,
+        "name": "Raheem Sterling",
+        "position": "Left Winger",
+        "team_id": 8,
+        "country": "England",
+        "rating": 87,
+        "imageName": "Raheem Sterling.jpeg"
+    },
+    {
+        "player_id": 55,
+        "name": "Phil Foden",
+        "position": "Right Winger",
+        "team_id": 8,
+        "country": "England",
+        "rating": 86,
+        "imageName": "Phil Foden.jpg"
+    },
+    {
+        "player_id": 56,
+        "name": "Thibaut Courtois",
+        "position": "Goalkeeper",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 89,
+        "imageName": "Thibaut Courtois.jpeg"
+    },
+    {
+        "player_id": 57,
+        "name": "Toby Alderweireld",
+        "position": "Center Back",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 84,
+        "imageName": "Toby Alderweireld.jpeg"
+    },
+    {
+        "player_id": 58,
+        "name": "Jan Vertonghen",
+        "position": "Center Back",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 83,
+        "imageName": "vertenghen.jpg"
+    },
+    {
+        "player_id": 59,
+        "name": "Thomas Meunier",
+        "position": "Right Back",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 82,
+        "imageName": "meunier.jpg"
+    },
+    {
+        "player_id": 60,
+        "name": "Jason Denayer",
+        "position": "Left Back",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 81,
+        "imageName": "jason denayer.jpeg"
+    },
+    {
+        "player_id": 61,
+        "name": "Youri Tielemans",
+        "position": "Center Midfielder",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 85,
+        "imageName": "tielemans.jpg"
+    },
+    {
+        "player_id": 62,
+        "name": "Axel Witsel",
+        "position": "Defensive Midfielder",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 84,
+        "imageName": "axel witsel.jpg"
+    },
+    {
+        "player_id": 63,
+        "name": "Kevin De Bruyne",
+        "position": "Attacking Midfielder",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 91,
+        "imageName": "kevin de bruyne.jpg"
+    },
+    {
+        "player_id": 64,
+        "name": "Romelu Lukaku",
+        "position": "Striker",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 87,
+        "imageName": "lukaku.jpg"
+    },
+    {
+        "player_id": 65,
+        "name": "Dries Mertens",
+        "position": "Right Winger",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 84,
+        "imageName": "mertens.jpeg"
+    },
+    {
+        "player_id": 66,
+        "name": "Eden Hazard",
+        "position": "Left Winger",
+        "team_id": 7,
+        "country": "Belgium",
+        "rating": 86,
+        "imageName": "hazard.jpeg"
+    },
+    {
+        "player_id": 67,
+        "name": "Jasper Cillessen",
+        "position": "Goalkeeper",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 82,
+        "imageName": "Jasper Cillessen.jpeg"
+    },
+    {
+        "player_id": 68,
+        "name": "Virgil van Dijk",
+        "position": "Center Back",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 90,
+        "imageName": "van dijk.jpg"
+    },
+    {
+        "player_id": 69,
+        "name": "Matthijs de Ligt",
+        "position": "Center Back",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 85,
+        "imageName": "de ligt.jpg"
+    },
+    {
+        "player_id": 70,
+        "name": "Daley Blind",
+        "position": "Left Back",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 83,
+        "imageName": "blind.jpg"
+    },
+    {
+        "player_id": 71,
+        "name": "Denzel Dumfries",
+        "position": "Right Back",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 82,
+        "imageName": "dumfries.jpg"
+    },
+    {
+        "player_id": 72,
+        "name": "Frenkie de Jong",
+        "position": "Center Midfielder",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 86,
+        "imageName": "de jong.jpeg"
+    },
+    {
+        "player_id": 73,
+        "name": "Georginio Wijnaldum",
+        "position": "Center Midfielder",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 85,
+        "imageName": "wijnaldum.jpg"
+    },
+    {
+        "player_id": 74,
+        "name": "Donny van de Beek",
+        "position": "Attacking Midfielder",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 83,
+        "imageName": "van beek.jpeg"
+    },
+    {
+        "player_id": 75,
+        "name": "Memphis Depay",
+        "position": "Left Winger",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 85,
+        "imageName": "depay.jpg"
+    },
+    {
+        "player_id": 76,
+        "name": "Donyell Malen",
+        "position": "Striker",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 81,
+        "imageName": "malen.jpg"
+    },
+    {
+        "player_id": 77,
+        "name": "Steven Bergwijn",
+        "position": "Right Winger",
+        "team_id": 6,
+        "country": "Netherlands",
+        "rating": 82,
+        "imageName": "bergwijn.jpg"
+    },
+    {
+        "player_id": 298,
+        "name": "Robin Olsen",
+        "position": "Goalkeeper",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 82,
+        "imageName": "robin olsen.jpg"
+    },
+    {
+        "player_id": 299,
+        "name": "Emil Krafth",
+        "position": "Right Back",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 80,
+        "imageName": "emil kraft.jpg"
+    },
+    {
+        "player_id": 300,
+        "name": "Victor Lindelöf",
+        "position": "Center Back",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 83,
+        "imageName": "lindelöf.jpg"
+    },
+    {
+        "player_id": 301,
+        "name": "Pontus Jansson",
+        "position": "Center Back",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 81,
+        "imageName": "Pontus Jansson.jpeg"
+    },
+    {
+        "player_id": 302,
+        "name": "Ludwig Augustinsson",
+        "position": "Left Back",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 81,
+        "imageName": "augustinsson.jpg"
+    },
+    {
+        "player_id": 303,
+        "name": "Albin Ekdal",
+        "position": "Defensive Midfielder",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 81,
+        "imageName": "albin ekdal.jpeg"
+    },
+    {
+        "player_id": 304,
+        "name": "Sebastian Larsson",
+        "position": "Central Midfielder",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 80,
+        "imageName": "Sebastian Larsson.jpeg"
+    },
+    {
+        "player_id": 305,
+        "name": "Emil Forsberg",
+        "position": "Attacking Midfielder",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 83,
+        "imageName": "forsberg.jpg"
+    },
+    {
+        "player_id": 306,
+        "name": "Dejan Kulusevski",
+        "position": "Right Winger",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 82,
+        "imageName": "kulusevski.jpg"
+    },
+    {
+        "player_id": 307,
+        "name": "Alexander Isak",
+        "position": "Striker",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 83,
+        "imageName": "alexander isak.jpg"
+    },
+    {
+        "player_id": 308,
+        "name": "Zlatan Ibrahimovic",
+        "position": "Striker",
+        "team_id": 11,
+        "country": "Sweden",
+        "rating": 84,
+        "imageName": "ibramivoic.jpg"
+    },
+    {
+        "player_id": 320,
+        "name": "David Marshall",
+        "position": "Goalkeeper",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 79,
+        "imageName": "David Marshall.jpeg"
+    },
+    {
+        "player_id": 321,
+        "name": "Andrew Robertson",
+        "position": "Left Back",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 85,
+        "imageName": "andrew robertson.jpg"
+    },
+    {
+        "player_id": 322,
+        "name": "Kieran Tierney",
+        "position": "Center Back",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 82,
+        "imageName": "tierney.jpg"
+    },
+    {
+        "player_id": 323,
+        "name": "Scott McKenna",
+        "position": "Center Back",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 80,
+        "imageName": "McKenna.jpg"
+    },
+    {
+        "player_id": 324,
+        "name": "Stephen O'Donnell",
+        "position": "Right Back",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 78,
+        "imageName": "Stephen O'Donnell.jpeg"
+    },
+    {
+        "player_id": 325,
+        "name": "Scott McTominay",
+        "position": "Defensive Midfielder",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 82,
+        "imageName": "mctominay.jpg"
+    },
+    {
+        "player_id": 326,
+        "name": "John McGinn",
+        "position": "Central Midfielder",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 81,
+        "imageName": "mcginn.jpg"
+    },
+    {
+        "player_id": 327,
+        "name": "Callum McGregor",
+        "position": "Central Midfielder",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 80,
+        "imageName": "mcgregor.jpg"
+    },
+    {
+        "player_id": 328,
+        "name": "Ryan Christie",
+        "position": "Attacking Midfielder",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 80,
+        "imageName": "Ryan Christie.jpeg"
+    },
+    {
+        "player_id": 329,
+        "name": "Lyndon Dykes",
+        "position": "Striker",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 80,
+        "imageName": "Lyndon Dykes.jpeg"
+    },
+    {
+        "player_id": 330,
+        "name": "Che Adams",
+        "position": "Striker",
+        "team_id": 20,
+        "country": "Scotland",
+        "rating": 80,
+        "imageName": "Che Adams.jpg"
+    },
+    {
+        "player_id": 243,
+        "name": "Daniel Bachmann",
+        "position": "Goalkeeper",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 80,
+        "imageName": "Daniel Bachmann.jpeg"
+    },
+    {
+        "player_id": 244,
+        "name": "David Alaba",
+        "position": "Center Back",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 86,
+        "imageName": "david alaba.jpeg"
+    },
+    {
+        "player_id": 245,
+        "name": "Martin Hinteregger",
+        "position": "Center Back",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 82,
+        "imageName": "Martin Hinteregger.jpeg"
+    },
+    {
+        "player_id": 246,
+        "name": "Stefan Lainer",
+        "position": "Right Back",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 81,
+        "imageName": "Stefan Lainer.jpeg"
+    },
+    {
+        "player_id": 247,
+        "name": "Andreas Ulmer",
+        "position": "Left Back",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 80,
+        "imageName": "Andreas Ulmer.jpeg"
+    },
+    {
+        "player_id": 248,
+        "name": "Julian Baumgartlinger",
+        "position": "Defensive Midfielder",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 80,
+        "imageName": "Julian Baumgartlinger.jpeg"
+    },
+    {
+        "player_id": 249,
+        "name": "Marcel Sabitzer",
+        "position": "Central Midfielder",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 82,
+        "imageName": "sabitzer.jpg"
+    },
+    {
+        "player_id": 250,
+        "name": "Xaver Schlager",
+        "position": "Central Midfielder",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 80,
+        "imageName": "Xaver Schlager.jpeg"
+    },
+    {
+        "player_id": 251,
+        "name": "Florian Grillitsch",
+        "position": "Attacking Midfielder",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 81,
+        "imageName": "Florian Grillitsch.jpg"
+    },
+    {
+        "player_id": 252,
+        "name": "Marko Arnautovic",
+        "position": "Striker",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 82,
+        "imageName": "arnautovic.jpg"
+    },
+    {
+        "player_id": 253,
+        "name": "Michael Gregoritsch",
+        "position": "Striker",
+        "team_id": 16,
+        "country": "Austria",
+        "rating": 80,
+        "imageName": "gregoritsch.jpg"
+    },
+    {
+        "player_id": 221,
+        "name": "Andriy Pyatov",
+        "position": "Goalkeeper",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 80,
+        "imageName": "Andriy Pyatov.jpeg"
+    },
+    {
+        "player_id": 222,
+        "name": "Oleksandr Zinchenko",
+        "position": "Left Back",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 82,
+        "imageName": "zinchenko.jpg"
+    },
+    {
+        "player_id": 223,
+        "name": "Mykola Matvienko",
+        "position": "Center Back",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 80,
+        "imageName": "matviyenko.jpg"
+    },
+    {
+        "player_id": 224,
+        "name": "Serhiy Kryvtsov",
+        "position": "Center Back",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 79,
+        "imageName": "Serhiy Kryvtsov.jpeg"
+    },
+    {
+        "player_id": 225,
+        "name": "Yevhen Konoplyanka",
+        "position": "Left Winger",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 81,
+        "imageName": "Yevhen Konoplyanka.jpeg"
+    },
+    {
+        "player_id": 226,
+        "name": "Ruslan Malinovskyi",
+        "position": "Central Midfielder",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 83,
+        "imageName": "malinovskyi.jpg"
+    },
+    {
+        "player_id": 227,
+        "name": "Taras Stepanenko",
+        "position": "Defensive Midfielder",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 82,
+        "imageName": "stepanenko.jpg"
+    },
+    {
+        "player_id": 228,
+        "name": "Oleksandr Zubkov",
+        "position": "Right Winger",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 80,
+        "imageName": "Oleksandr Zubkov.jpeg"
+    },
+    {
+        "player_id": 229,
+        "name": "Viktor Tsygankov",
+        "position": "Right Winger",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 82,
+        "imageName": "Viktor Tsygankov.jpeg"
+    },
+    {
+        "player_id": 230,
+        "name": "Roman Yaremchuk",
+        "position": "Striker",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 82,
+        "imageName": "yaremchuk.jpg"
+    },
+    {
+        "player_id": 231,
+        "name": "Junior Moraes",
+        "position": "Striker",
+        "team_id": 18,
+        "country": "Ukraine",
+        "rating": 81,
+        "imageName": "Junior Moraes.jpeg"
+    },
+    {
+        "player_id": 133,
+        "name": "Wojciech Szczesny",
+        "position": "Goalkeeper",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 86,
+        "imageName": "szczesny.jpg"
+    },
+    {
+        "player_id": 134,
+        "name": "Jan Bednarek",
+        "position": "Center Back",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 81,
+        "imageName": "bednarek.jpg"
+    },
+    {
+        "player_id": 135,
+        "name": "Kamil Glik",
+        "position": "Center Back",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 80,
+        "imageName": "Kamil Glik.jpeg"
+    },
+    {
+        "player_id": 136,
+        "name": "Bartosz Bereszynski",
+        "position": "Right Back",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 80,
+        "imageName": "bereszynski.jpg"
+    },
+    {
+        "player_id": 137,
+        "name": "Maciej Rybus",
+        "position": "Left Back",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 79,
+        "imageName": "Maciej Rybus.jpeg"
+    },
+    {
+        "player_id": 138,
+        "name": "Grzegorz Krychowiak",
+        "position": "Defensive Midfielder",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 82,
+        "imageName": "Grzegorz Krychowiak.jpeg"
+    },
+    {
+        "player_id": 139,
+        "name": "Piotr Zielinski",
+        "position": "Center Midfielder",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 83,
+        "imageName": "ziekinski.jpg"
+    },
+    {
+        "player_id": 140,
+        "name": "Jakub Moder",
+        "position": "Attacking Midfielder",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 80,
+        "imageName": "jakub moder.jpg"
+    },
+    {
+        "player_id": 141,
+        "name": "Robert Lewandowski",
+        "position": "Striker",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 92,
+        "imageName": "robert lewandowski.jpg"
+    },
+    {
+        "player_id": 142,
+        "name": "Arkadiusz Milik",
+        "position": "Left Winger",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 81,
+        "imageName": "Arkadiusz Milik.jpeg"
+    },
+    {
+        "player_id": 143,
+        "name": "Krzysztof Piatek",
+        "position": "Right Winger",
+        "team_id": 12,
+        "country": "Poland",
+        "rating": 80,
+        "imageName": "piatek.jpg"
+    },
+    {
+        "player_id": 144,
+        "name": "Rui Patricio",
+        "position": "Goalkeeper",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 84,
+        "imageName": "rui patricio.jpg"
+    },
+    {
+        "player_id": 145,
+        "name": "Pepe",
+        "position": "Center Back",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 82,
+        "imageName": "pepe.jpg"
+    },
+    {
+        "player_id": 146,
+        "name": "Ruben Dias",
+        "position": "Center Back",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 87,
+        "imageName": "ruben dias.jpg"
+    },
+    {
+        "player_id": 147,
+        "name": "Raphael Guerreiro",
+        "position": "Left Back",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 84,
+        "imageName": "Raphael Guerreiro.jpg"
+    },
+    {
+        "player_id": 148,
+        "name": "Joao Cancelo",
+        "position": "Right Back",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 86,
+        "imageName": "joao cancelo.jpg"
+    },
+    {
+        "player_id": 149,
+        "name": "Bruno Fernandes",
+        "position": "Attacking Midfielder",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 88,
+        "imageName": "bruno fernandes.jpg"
+    },
+    {
+        "player_id": 150,
+        "name": "Bernardo Silva",
+        "position": "Center Midfielder",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 86,
+        "imageName": "bernardo silva.jpg"
+    },
+    {
+        "player_id": 151,
+        "name": "Ruben Neves",
+        "position": "Defensive Midfielder",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 83,
+        "imageName": "ruben neves.jpg"
+    },
+    {
+        "player_id": 152,
+        "name": "Cristiano Ronaldo",
+        "position": "Striker",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 91,
+        "imageName": "cristiano ronaldo.jpg"
+    },
+    {
+        "player_id": 153,
+        "name": "Diogo Jota",
+        "position": "Left Winger",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 85,
+        "imageName": "diogo jota.jpg"
+    },
+    {
+        "player_id": 154,
+        "name": "Joao Felix",
+        "position": "Right Winger",
+        "team_id": 5,
+        "country": "Portugal",
+        "rating": 84,
+        "imageName": "joao felix.jpg"
+    },
+    {
+        "player_id": 265,
+        "name": "Igor Akinfeev",
+        "position": "Goalkeeper",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 81,
+        "imageName": "Igor Akinfeev.jpeg"
+    },
+    {
+        "player_id": 266,
+        "name": "Mario Fernandes",
+        "position": "Right Back",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 80,
+        "imageName": "Mario Fernandes.jpeg"
+    },
+    {
+        "player_id": 267,
+        "name": "Georgi Dzhikiya",
+        "position": "Center Back",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 80,
+        "imageName": "Georgi Dzhikiya.jpeg"
+    },
+    {
+        "player_id": 268,
+        "name": "Fyodor Kudryashov",
+        "position": "Center Back",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 79,
+        "imageName": "Fyodor Kudryashov.jpeg"
+    },
+    {
+        "player_id": 269,
+        "name": "Yuri Zhirkov",
+        "position": "Left Back",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 78,
+        "imageName": "Yuri Zhirkov.jpeg"
+    },
+    {
+        "player_id": 270,
+        "name": "Daler Kuzyaev",
+        "position": "Defensive Midfielder",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 80,
+        "imageName": "Daler Kuzyaev .jpeg"
+    },
+    {
+        "player_id": 271,
+        "name": "Roman Zobnin",
+        "position": "Central Midfielder",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 80,
+        "imageName": "Roman Zobnin.jpeg"
+    },
+    {
+        "player_id": 272,
+        "name": "Magomed Ozdoev",
+        "position": "Central Midfielder",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 79,
+        "imageName": "Magomed Ozdoev.jpeg"
+    },
+    {
+        "player_id": 273,
+        "name": "Aleksandr Golovin",
+        "position": "Attacking Midfielder",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 81,
+        "imageName": "Aleksandr Golovin.jpeg"
+    },
+    {
+        "player_id": 274,
+        "name": "Artem Dzyuba",
+        "position": "Striker",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 81,
+        "imageName": "Artem Dzyuba.jpeg"
+    },
+    {
+        "player_id": 275,
+        "name": "Aleksandr Sobolev",
+        "position": "Striker",
+        "team_id": 15,
+        "country": "Russia",
+        "rating": 80,
+        "imageName": "Aleksandr Sobolev.jpeg"
+    },
+    {
+        "player_id": 166,
+        "name": "Kasper Schmeichel",
+        "position": "Goalkeeper",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 84,
+        "imageName": "kasper schmeichel.jpg"
+    },
+    {
+        "player_id": 167,
+        "name": "Simon Kjaer",
+        "position": "Center Back",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 82,
+        "imageName": "simon kjaer.jpg"
+    },
+    {
+        "player_id": 168,
+        "name": "Andreas Christensen",
+        "position": "Center Back",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 83,
+        "imageName": "andreas christensen.jpg"
+    },
+    {
+        "player_id": 169,
+        "name": "Joakim Maehle",
+        "position": "Left Back",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 81,
+        "imageName": "joakim maehle.jpg"
+    },
+    {
+        "player_id": 170,
+        "name": "Jens Stryger Larsen",
+        "position": "Right Back",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 80,
+        "imageName": "Jens Stryger Larsen.jpeg"
+    },
+    {
+        "player_id": 171,
+        "name": "Pierre-Emile Hojbjerg",
+        "position": "Defensive Midfielder",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 84,
+        "imageName": "hojbjerg.jpg"
+    },
+    {
+        "player_id": 172,
+        "name": "Thomas Delaney",
+        "position": "Center Midfielder",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 83,
+        "imageName": "thomas delaney.jpg"
+    },
+    {
+        "player_id": 173,
+        "name": "Christian Eriksen",
+        "position": "Attacking Midfielder",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 85,
+        "imageName": "eriksen.jpg"
+    },
+    {
+        "player_id": 174,
+        "name": "Yussuf Poulsen",
+        "position": "Striker",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 82,
+        "imageName": "Yussuf Poulsen.jpeg"
+    },
+    {
+        "player_id": 175,
+        "name": "Martin Braithwaite",
+        "position": "Left Winger",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 81,
+        "imageName": "Martin Braithwaite.jpeg"
+    },
+    {
+        "player_id": 176,
+        "name": "Andreas Skov Olsen",
+        "position": "Right Winger",
+        "team_id": 10,
+        "country": "Denmark",
+        "rating": 80,
+        "imageName": "andreas skov olsen.jpg"
+    },
+    {
+        "player_id": 232,
+        "name": "Mert Gunok",
+        "position": "Goalkeeper",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 82,
+        "imageName": "Mert Gunok.jpg"
+    },
+    {
+        "player_id": 233,
+        "name": "Mert Muldur",
+        "position": "Right Back",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 80,
+        "imageName": "mert müldür.jpg"
+    },
+    {
+        "player_id": 234,
+        "name": "Caglar Soyuncu",
+        "position": "Center Back",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 83,
+        "imageName": "çağlar söyüncü.jpg"
+    },
+    {
+        "player_id": 235,
+        "name": "Merih Demiral",
+        "position": "Center Back",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 82,
+        "imageName": "merih demiral.jpg"
+    },
+    {
+        "player_id": 236,
+        "name": "Ferdi Kadioglu",
+        "position": "Left Back",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 90,
+        "imageName": "ferdi kadıoğlu.jpg"
+    },
+    {
+        "player_id": 237,
+        "name": "Hakan Calhanoglu",
+        "position": "Central Midfielder",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 88,
+        "imageName": "hakan çalhanoğlu.jpg"
+    },
+    {
+        "player_id": 238,
+        "name": "İrfan Can Kahveci",
+        "position": "Attacking Midfielder",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 82,
+        "imageName": "irfan can kahveci.jpg"
+    },
+    {
+        "player_id": 239,
+        "name": "Arda Guler",
+        "position": "Attacking Midfielder",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 89,
+        "imageName": "arda guler.jpg"
+    },
+    {
+        "player_id": 240,
+        "name": "Cengiz Under",
+        "position": "Right Winger",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 81,
+        "imageName": "cengiz ünder.jpg"
+    },
+    {
+        "player_id": 241,
+        "name": "Cenk Tosun",
+        "position": "Striker",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 82,
+        "imageName": "cenk tosun.jpg"
+    },
+    {
+        "player_id": 242,
+        "name": "Kenan Yıldız",
+        "position": "Left Winger",
+        "team_id": 13,
+        "country": "Turkey",
+        "rating": 79,
+        "imageName": "kenan yıldız.jpg"
+    },
+    {
+        "player_id": 254,
+        "name": "Dominik Livakovic",
+        "position": "Goalkeeper",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 83,
+        "imageName": "livakovic.jpg"
+    },
+    {
+        "player_id": 255,
+        "name": "Domagoj Vida",
+        "position": "Center Back",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 82,
+        "imageName": "vida.jpg"
+    },
+    {
+        "player_id": 256,
+        "name": "Dejan Lovren",
+        "position": "Center Back",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 81,
+        "imageName": "Dejan Lovren.jpeg"
+    },
+    {
+        "player_id": 257,
+        "name": "Josip Juranovic",
+        "position": "Right Back",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 80,
+        "imageName": "juranovic.jpg"
+    },
+    {
+        "player_id": 258,
+        "name": "Borna Barisic",
+        "position": "Left Back",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 80,
+        "imageName": "borna barisic.jpeg"
+    },
+    {
+        "player_id": 259,
+        "name": "Marcelo Brozovic",
+        "position": "Defensive Midfielder",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 84,
+        "imageName": "brozovic.jpg"
+    },
+    {
+        "player_id": 260,
+        "name": "Luka Modric",
+        "position": "Central Midfielder",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 87,
+        "imageName": "luka modric.jpg"
+    },
+    {
+        "player_id": 261,
+        "name": "Mateo Kovacic",
+        "position": "Central Midfielder",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 85,
+        "imageName": "mateo kovacic.jpg"
+    },
+    {
+        "player_id": 262,
+        "name": "Ivan Perisic",
+        "position": "Attacking Midfielder",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 83,
+        "imageName": "ivan perisic.jpg"
+    },
+    {
+        "player_id": 263,
+        "name": "Andrej Kramaric",
+        "position": "Striker",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 82,
+        "imageName": "andrej kramaric.jpg"
+    },
+    {
+        "player_id": 264,
+        "name": "Ante Rebic",
+        "position": "Striker",
+        "team_id": 14,
+        "country": "Croatia",
+        "rating": 81,
+        "imageName": "Ante Rebic.jpeg"
+    },
+    {
+        "player_id": 287,
+        "name": "Yann Sommer",
+        "position": "Goalkeeper",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 84,
+        "imageName": "yann sommer.jpg"
+    },
+    {
+        "player_id": 288,
+        "name": "Ricardo Rodriguez",
+        "position": "Left Back",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 81,
+        "imageName": "ricardo rodriguez.jpg"
+    },
+    {
+        "player_id": 289,
+        "name": "Manuel Akanji",
+        "position": "Center Back",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 83,
+        "imageName": "mauel akanji.jpg"
+    },
+    {
+        "player_id": 290,
+        "name": "Nico Elvedi",
+        "position": "Center Back",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 82,
+        "imageName": "nico elvedi.jpg"
+    },
+    {
+        "player_id": 291,
+        "name": "Kevin Mbabu",
+        "position": "Right Back",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 81,
+        "imageName": "Kevin Mbabu.jpeg"
+    },
+    {
+        "player_id": 292,
+        "name": "Granit Xhaka",
+        "position": "Defensive Midfielder",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 82,
+        "imageName": "xhaka.jpg"
+    },
+    {
+        "player_id": 293,
+        "name": "Remo Freuler",
+        "position": "Central Midfielder",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 81,
+        "imageName": "remo freuler.jpg"
+    },
+    {
+        "player_id": 294,
+        "name": "Xherdan Shaqiri",
+        "position": "Attacking Midfielder",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 83,
+        "imageName": "shaqiri.jpg"
+    },
+    {
+        "player_id": 295,
+        "name": "Steven Zuber",
+        "position": "Left Winger",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 80,
+        "imageName": "zuber.jpg"
+    },
+    {
+        "player_id": 296,
+        "name": "Breel Embolo",
+        "position": "Striker",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 82,
+        "imageName": "embolo.jpg"
+    },
+    {
+        "player_id": 297,
+        "name": "Haris Seferovic",
+        "position": "Striker",
+        "team_id": 9,
+        "country": "Switzerland",
+        "rating": 81,
+        "imageName": "Haris Seferovic.jpeg"
+    },
+    {
+        "player_id": 210,
+        "name": "Unai Simon",
+        "position": "Goalkeeper",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 84,
+        "imageName": "unai simon.jpg"
+    },
+    {
+        "player_id": 211,
+        "name": "Jordi Alba",
+        "position": "Left Back",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 85,
+        "imageName": "jordi alba.jpeg"
+    },
+    {
+        "player_id": 212,
+        "name": "Aymeric Laporte",
+        "position": "Center Back",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 86,
+        "imageName": "Aymeric Laporte.jpeg"
+    },
+    {
+        "player_id": 213,
+        "name": "Nacho",
+        "position": "Center Back",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 83,
+        "imageName": "nacho.jpg"
+    },
+    {
+        "player_id": 214,
+        "name": "Dani Carvajal",
+        "position": "Right Back",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 84,
+        "imageName": "dani carvajal.jpg"
+    },
+    {
+        "player_id": 215,
+        "name": "Rodri",
+        "position": "Defensive Midfielder",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 87,
+        "imageName": "rodri.jpg"
+    },
+    {
+        "player_id": 216,
+        "name": "Sergio Busquets",
+        "position": "Center Midfielder",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 85,
+        "imageName": "sergio busquets.jpeg"
+    },
+    {
+        "player_id": 217,
+        "name": "Koke",
+        "position": "Attacking Midfielder",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 84,
+        "imageName": "koke.jpeg"
+    },
+    {
+        "player_id": 218,
+        "name": "Ferran Torres",
+        "position": "Right Winger",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 82,
+        "imageName": "ferran torres.jpg"
+    },
+    {
+        "player_id": 219,
+        "name": "Alvaro Morata",
+        "position": "Striker",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 83,
+        "imageName": "alvaro morata.jpg"
+    },
+    {
+        "player_id": 220,
+        "name": "Dani Olmo",
+        "position": "Left Winger",
+        "team_id": 3,
+        "country": "Spain",
+        "rating": 82,
+        "imageName": "dani olmo.jpg"
+    },
+    {
+        "player_id": 342,
+        "name": "Wayne Hennessey",
+        "position": "Goalkeeper",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 80,
+        "imageName": "wayne hennessey.jpg"
+    },
+    {
+        "player_id": 343,
+        "name": "Connor Roberts",
+        "position": "Right Back",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 78,
+        "imageName": "connor roberts.jpg"
+    },
+    {
+        "player_id": 344,
+        "name": "Chris Mepham",
+        "position": "Center Back",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 79,
+        "imageName": "chris mepham.jpg"
+    },
+    {
+        "player_id": 345,
+        "name": "Joe Rodon",
+        "position": "Center Back",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 80,
+        "imageName": "joe rodon.jpg"
+    },
+    {
+        "player_id": 346,
+        "name": "Ben Davies",
+        "position": "Left Back",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 81,
+        "imageName": "ben davies.jpg"
+    },
+    {
+        "player_id": 347,
+        "name": "Joe Allen",
+        "position": "Defensive Midfielder",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 80,
+        "imageName": "joe allen.jpeg"
+    },
+    {
+        "player_id": 348,
+        "name": "Aaron Ramsey",
+        "position": "Central Midfielder",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 81,
+        "imageName": "aaron ramsey.jpg"
+    },
+    {
+        "player_id": 349,
+        "name": "Harry Wilson",
+        "position": "Attacking Midfielder",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 79,
+        "imageName": "harry wilson.jpg"
+    },
+    {
+        "player_id": 350,
+        "name": "Daniel James",
+        "position": "Right Winger",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 80,
+        "imageName": "daniel james.jpg"
+    },
+    {
+        "player_id": 351,
+        "name": "Gareth Bale",
+        "position": "Striker",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 83,
+        "imageName": "gareth bale.jpeg"
+    },
+    {
+        "player_id": 352,
+        "name": "Kieffer Moore",
+        "position": "Striker",
+        "team_id": 19,
+        "country": "Wales",
+        "rating": 78,
+        "imageName": "kieffer moore.jpg"
+    }
+]

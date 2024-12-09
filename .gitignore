@@ -1,0 +1,10 @@
+# Firebase yapılandırma dosyaları
+google-services.json
+GoogleService-Info.plist
+
+# Service Account dosyası
+serviceAccountKey.json
+
+# Çevresel değişkenler
+.env
+

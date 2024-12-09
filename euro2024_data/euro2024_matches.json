@@ -1,0 +1,110 @@
+[
+  {
+    "id": "match_1",
+    "team1_id": 2,
+    "team2_id": 4,
+    "team1_score": 3,
+    "team2_score": 2,
+    "date": "2024-07-22T19:00:00Z",
+    "team1_goals": [
+      {"player_id": 20, "minute": 10, "assist_player_id": 19},
+      {"player_id": 21, "minute": 30, "assist_player_id": 18},
+      {"player_id": 22, "minute": 55, "assist_player_id": 19}
+    ],
+    "team2_goals": [
+      {"player_id": 44, "minute": 45, "assist_player_id": 43},
+      {"player_id": 42, "minute": 70, "assist_player_id": 41}
+    ],
+    "team1_yellow_cards": [],
+    "team2_yellow_cards": [],
+    "team1_red_cards": [],
+    "team2_red_cards": [],
+    "possession_team1": 55,
+    "possession_team2": 45
+  },
+  {
+    "id": "match_2",
+    "team1_id": 1,
+    "team2_id": 8,
+    "team1_score": 2,
+    "team2_score": 1,
+    "date": "2024-07-23T19:00:00Z",
+    "team1_goals": [
+      {"player_id": 9, "minute": 12, "assist_player_id": 8},
+      {"player_id": 10, "minute": 60, "assist_player_id": 7}
+    ],
+    "team2_goals": [
+      {"player_id": 53, "minute": 50, "assist_player_id": 54}
+    ],
+    "team1_yellow_cards": [],
+    "team2_yellow_cards": [],
+    "team1_red_cards": [],
+    "team2_red_cards": [],
+    "possession_team1": 60,
+    "possession_team2": 40
+  },
+  {
+    "id": "match_3",
+    "team1_id": 3,
+    "team2_id": 5,
+    "team1_score": 1,
+    "team2_score": 3,
+    "date": "2024-07-24T19:00:00Z",
+    "team1_goals": [
+      {"player_id": 220, "minute": 15, "assist_player_id": 219}
+    ],
+    "team2_goals": [
+      {"player_id": 152, "minute": 20, "assist_player_id": 150},
+      {"player_id": 153, "minute": 45, "assist_player_id": 151},
+      {"player_id": 149, "minute": 70, "assist_player_id": 154}
+    ],
+    "team1_yellow_cards": [],
+    "team2_yellow_cards": [],
+    "team1_red_cards": [],
+    "team2_red_cards": [],
+    "possession_team1": 52,
+    "possession_team2": 48
+  },
+  {
+    "id": "match_4",
+    "team1_id": 12,
+    "team2_id": 7,
+    "team1_score": 0,
+    "team2_score": 3,
+    "date": "2024-07-25T19:00:00Z",
+    "team1_goals": [],
+    "team2_goals": [
+      {"player_id": 64, "minute": 30, "assist_player_id": 63},
+      {"player_id": 63, "minute": 50, "assist_player_id": 62},
+      {"player_id": 65, "minute": 75, "assist_player_id": 66}
+    ],
+    "team1_yellow_cards": [],
+    "team2_yellow_cards": [],
+    "team1_red_cards": [],
+    "team2_red_cards": [],
+    "possession_team1": 45,
+    "possession_team2": 55
+  },
+  {
+    "id": "match_5",
+    "team1_id": 6,
+    "team2_id": 9,
+    "team1_score": 2,
+    "team2_score": 2,
+    "date": "2024-07-26T19:00:00Z",
+    "team1_goals": [
+      {"player_id": 75, "minute": 25, "assist_player_id": 74},
+      {"player_id": 76, "minute": 60, "assist_player_id": 73}
+    ],
+    "team2_goals": [
+      {"player_id": 296, "minute": 45, "assist_player_id": 294},
+      {"player_id": 297, "minute": 80, "assist_player_id": 293}
+    ],
+    "team1_yellow_cards": [],
+    "team2_yellow_cards": [],
+    "team1_red_cards": [],
+    "team2_red_cards": [],
+    "possession_team1": 50,
+    "possession_team2": 50
+  }
+]

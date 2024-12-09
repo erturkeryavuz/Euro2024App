@@ -1,0 +1,629 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B0BB2892C40DC4000D2771B /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0BB2882C40DC4000D2771B /* LoginView.swift */; };
+		3B0BB28B2C40DC5200D2771B /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0BB28A2C40DC5200D2771B /* RegisterView.swift */; };
+		3B0BB28D2C40DD6400D2771B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0BB28C2C40DD6400D2771B /* MainView.swift */; };
+		3B1570D42C48E859006315A2 /* DismissingKeyboard Modifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1570D32C48E859006315A2 /* DismissingKeyboard Modifier.swift */; };
+		3B16B6BF2C628B75000C0ED7 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B16B6BE2C628B75000C0ED7 /* ProfileView.swift */; };
+		3B179C1A2C51530B00681EFE /* MatchDetailView .swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B179C192C51530B00681EFE /* MatchDetailView .swift */; };
+		3B179C1C2C51554A00681EFE /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B179C1B2C51554A00681EFE /* Card.swift */; };
+		3B25C1372C4B8E47001B4EC1 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 3B25C1362C4B8E47001B4EC1 /* FirebaseFirestore */; };
+		3B25C1392C4B8F4E001B4EC1 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 3B25C1382C4B8F4E001B4EC1 /* FirebaseFirestoreSwift */; };
+		3B2666B02C452B6800F86BBA /* CustomFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2666AF2C452B6800F86BBA /* CustomFields.swift */; };
+		3B384D1F2C4D6DFB00B17EA1 /* TeamDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B384D1E2C4D6DFB00B17EA1 /* TeamDetailView.swift */; };
+		3B53CC2B2C5A923100B8CFB0 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = 3B53CC2A2C5A923100B8CFB0 /* SDWebImage */; };
+		3B53CC472C5A9AAE00B8CFB0 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 3B53CC462C5A9AAE00B8CFB0 /* SDWebImageSwiftUI */; };
+		3B53CC4C2C5AAE1300B8CFB0 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 3B53CC4B2C5AAE1300B8CFB0 /* FirebaseStorage */; };
+		3B53CC4E2C5AAF1D00B8CFB0 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B53CC4D2C5AAF1D00B8CFB0 /* ImagePicker.swift */; };
+		3B5B0A062C41FD430003B179 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B5B0A052C41FD430003B179 /* GoogleService-Info.plist */; };
+		3B5B0A092C41FE910003B179 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 3B5B0A082C41FE910003B179 /* FirebaseAuth */; };
+		3B5B0A0D2C4200DA0003B179 /* FirebaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B5B0A0C2C4200DA0003B179 /* FirebaseManager.swift */; };
+		3B700C972C51774D00A238E6 /* MatchesTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B700C962C51774D00A238E6 /* MatchesTabView.swift */; };
+		3B700C992C5177A100A238E6 /* LeagueStandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B700C982C5177A100A238E6 /* LeagueStandingView.swift */; };
+		3B700C9D2C517DA300A238E6 /* LeagueStandingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B700C9C2C517DA300A238E6 /* LeagueStandingViewModel.swift */; };
+		3B700CA42C518F8E00A238E6 /* Standing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B700CA32C518F8E00A238E6 /* Standing.swift */; };
+		3BD1BB862C4F8CDA00774A67 /* Goal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD1BB852C4F8CDA00774A67 /* Goal.swift */; };
+		3BE971542C3B67F200D0C113 /* Euro2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE971532C3B67F200D0C113 /* Euro2024App.swift */; };
+		3BE971562C3B67F200D0C113 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE971552C3B67F200D0C113 /* ContentView.swift */; };
+		3BE971582C3B67F400D0C113 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BE971572C3B67F400D0C113 /* Assets.xcassets */; };
+		3BE9715B2C3B67F400D0C113 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BE9715A2C3B67F400D0C113 /* Preview Assets.xcassets */; };
+		3BE971652C3B6ABD00D0C113 /* Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE971642C3B6ABD00D0C113 /* Match.swift */; };
+		3BE971672C3B6ADA00D0C113 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE971662C3B6ADA00D0C113 /* Team.swift */; };
+		3BE971692C3B6AED00D0C113 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE971682C3B6AED00D0C113 /* Player.swift */; };
+		3BE9716D2C3B6B6C00D0C113 /* MatchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE9716C2C3B6B6C00D0C113 /* MatchViewModel.swift */; };
+		3BE9716F2C3B6B8500D0C113 /* TeamViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE9716E2C3B6B8500D0C113 /* TeamViewModel.swift */; };
+		3BE971712C3B6BBE00D0C113 /* PlayerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE971702C3B6BBE00D0C113 /* PlayerViewModel.swift */; };
+		3BF85FF02C3CCE5C0080AC88 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF85FEF2C3CCE5C0080AC88 /* News.swift */; };
+		3BF85FF22C3CCE9E0080AC88 /* NewsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF85FF12C3CCE9E0080AC88 /* NewsViewModel.swift */; };
+		3BF85FF62C3CCF390080AC88 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF85FF52C3CCF390080AC88 /* NewsView.swift */; };
+		3BF85FF82C3CD05B0080AC88 /* MatchesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF85FF72C3CD05B0080AC88 /* MatchesView.swift */; };
+		3BF85FFA2C3CD06D0080AC88 /* TeamsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF85FF92C3CD06D0080AC88 /* TeamsView.swift */; };
+		3BF85FFC2C3CD0800080AC88 /* PlayerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF85FFB2C3CD0800080AC88 /* PlayerListView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3B0BB2882C40DC4000D2771B /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		3B0BB28A2C40DC5200D2771B /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		3B0BB28C2C40DD6400D2771B /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		3B1570D32C48E859006315A2 /* DismissingKeyboard Modifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DismissingKeyboard Modifier.swift"; sourceTree = "<group>"; };
+		3B16B6BE2C628B75000C0ED7 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		3B179C192C51530B00681EFE /* MatchDetailView .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MatchDetailView .swift"; sourceTree = "<group>"; };
+		3B179C1B2C51554A00681EFE /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		3B2666AF2C452B6800F86BBA /* CustomFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFields.swift; sourceTree = "<group>"; };
+		3B384D1E2C4D6DFB00B17EA1 /* TeamDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamDetailView.swift; sourceTree = "<group>"; };
+		3B53CC4D2C5AAF1D00B8CFB0 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		3B5B0A052C41FD430003B179 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		3B5B0A0C2C4200DA0003B179 /* FirebaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseManager.swift; sourceTree = "<group>"; };
+		3B700C962C51774D00A238E6 /* MatchesTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchesTabView.swift; sourceTree = "<group>"; };
+		3B700C982C5177A100A238E6 /* LeagueStandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueStandingView.swift; sourceTree = "<group>"; };
+		3B700C9C2C517DA300A238E6 /* LeagueStandingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueStandingViewModel.swift; sourceTree = "<group>"; };
+		3B700CA32C518F8E00A238E6 /* Standing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Standing.swift; sourceTree = "<group>"; };
+		3BBCC1D02C7E1114008B08E7 /* Euro2024App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Euro2024App.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BD1BB852C4F8CDA00774A67 /* Goal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goal.swift; sourceTree = "<group>"; };
+		3BE971532C3B67F200D0C113 /* Euro2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euro2024App.swift; sourceTree = "<group>"; };
+		3BE971552C3B67F200D0C113 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3BE971572C3B67F400D0C113 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BE9715A2C3B67F400D0C113 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BE971642C3B6ABD00D0C113 /* Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Match.swift; sourceTree = "<group>"; };
+		3BE971662C3B6ADA00D0C113 /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		3BE971682C3B6AED00D0C113 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		3BE9716C2C3B6B6C00D0C113 /* MatchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchViewModel.swift; sourceTree = "<group>"; };
+		3BE9716E2C3B6B8500D0C113 /* TeamViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamViewModel.swift; sourceTree = "<group>"; };
+		3BE971702C3B6BBE00D0C113 /* PlayerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewModel.swift; sourceTree = "<group>"; };
+		3BF85FEF2C3CCE5C0080AC88 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		3BF85FF12C3CCE9E0080AC88 /* NewsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewModel.swift; sourceTree = "<group>"; };
+		3BF85FF52C3CCF390080AC88 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		3BF85FF72C3CD05B0080AC88 /* MatchesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchesView.swift; sourceTree = "<group>"; };
+		3BF85FF92C3CD06D0080AC88 /* TeamsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamsView.swift; sourceTree = "<group>"; };
+		3BF85FFB2C3CD0800080AC88 /* PlayerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerListView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BE9714D2C3B67F200D0C113 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B5B0A092C41FE910003B179 /* FirebaseAuth in Frameworks */,
+				3B53CC4C2C5AAE1300B8CFB0 /* FirebaseStorage in Frameworks */,
+				3B25C1372C4B8E47001B4EC1 /* FirebaseFirestore in Frameworks */,
+				3B25C1392C4B8F4E001B4EC1 /* FirebaseFirestoreSwift in Frameworks */,
+				3B53CC472C5A9AAE00B8CFB0 /* SDWebImageSwiftUI in Frameworks */,
+				3B53CC2B2C5A923100B8CFB0 /* SDWebImage in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B53CC3E2C5A979100B8CFB0 /* Profile Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3B0BB2882C40DC4000D2771B /* LoginView.swift */,
+				3B0BB28A2C40DC5200D2771B /* RegisterView.swift */,
+				3B53CC4D2C5AAF1D00B8CFB0 /* ImagePicker.swift */,
+				3B16B6BE2C628B75000C0ED7 /* ProfileView.swift */,
+			);
+			path = "Profile Folder";
+			sourceTree = "<group>";
+		};
+		3B5B0A042C41FC7D0003B179 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				3BE971572C3B67F400D0C113 /* Assets.xcassets */,
+			);
+			path = Photos;
+			sourceTree = "<group>";
+		};
+		3B700C9E2C51855A00A238E6 /* League Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3B700C982C5177A100A238E6 /* LeagueStandingView.swift */,
+				3B700C9C2C517DA300A238E6 /* LeagueStandingViewModel.swift */,
+				3B700CA32C518F8E00A238E6 /* Standing.swift */,
+			);
+			path = "League Folder";
+			sourceTree = "<group>";
+		};
+		3B700C9F2C51859C00A238E6 /* Match Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3BE9716C2C3B6B6C00D0C113 /* MatchViewModel.swift */,
+				3B179C1B2C51554A00681EFE /* Card.swift */,
+				3BD1BB852C4F8CDA00774A67 /* Goal.swift */,
+				3BE971642C3B6ABD00D0C113 /* Match.swift */,
+				3B700C962C51774D00A238E6 /* MatchesTabView.swift */,
+				3BF85FF72C3CD05B0080AC88 /* MatchesView.swift */,
+				3B179C192C51530B00681EFE /* MatchDetailView .swift */,
+			);
+			path = "Match Folder";
+			sourceTree = "<group>";
+		};
+		3B700CA02C51869A00A238E6 /* MainPage Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3B0BB28C2C40DD6400D2771B /* MainView.swift */,
+				3BE971532C3B67F200D0C113 /* Euro2024App.swift */,
+				3BE971552C3B67F200D0C113 /* ContentView.swift */,
+			);
+			path = "MainPage Folder";
+			sourceTree = "<group>";
+		};
+		3B700CA12C51870A00A238E6 /* Keyboard Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3B1570D32C48E859006315A2 /* DismissingKeyboard Modifier.swift */,
+				3B2666AF2C452B6800F86BBA /* CustomFields.swift */,
+			);
+			path = "Keyboard Folder";
+			sourceTree = "<group>";
+		};
+		3B700CA22C51872500A238E6 /* Firabase Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3B5B0A0C2C4200DA0003B179 /* FirebaseManager.swift */,
+			);
+			path = "Firabase Folder";
+			sourceTree = "<group>";
+		};
+		3BE971472C3B67F200D0C113 = {
+			isa = PBXGroup;
+			children = (
+				3BE971522C3B67F200D0C113 /* Euro2024App */,
+				3BBCC1D02C7E1114008B08E7 /* Euro2024App.app */,
+			);
+			sourceTree = "<group>";
+		};
+		3BE971522C3B67F200D0C113 /* Euro2024App */ = {
+			isa = PBXGroup;
+			children = (
+				3B53CC3E2C5A979100B8CFB0 /* Profile Folder */,
+				3B700CA22C51872500A238E6 /* Firabase Folder */,
+				3B5B0A042C41FC7D0003B179 /* Photos */,
+				3B5B0A052C41FD430003B179 /* GoogleService-Info.plist */,
+				3B700CA12C51870A00A238E6 /* Keyboard Folder */,
+				3B700CA02C51869A00A238E6 /* MainPage Folder */,
+				3B700C9F2C51859C00A238E6 /* Match Folder */,
+				3B700C9E2C51855A00A238E6 /* League Folder */,
+				3BE971612C3B689400D0C113 /* Player Folder */,
+				3BE971622C3B68B300D0C113 /* News Folder */,
+				3BE971632C3B68FF00D0C113 /* Team Folder */,
+				3BE971592C3B67F400D0C113 /* Preview Content */,
+			);
+			path = Euro2024App;
+			sourceTree = "<group>";
+		};
+		3BE971592C3B67F400D0C113 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3BE9715A2C3B67F400D0C113 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3BE971612C3B689400D0C113 /* Player Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3BE971682C3B6AED00D0C113 /* Player.swift */,
+				3BE971702C3B6BBE00D0C113 /* PlayerViewModel.swift */,
+				3BF85FFB2C3CD0800080AC88 /* PlayerListView.swift */,
+			);
+			path = "Player Folder";
+			sourceTree = "<group>";
+		};
+		3BE971622C3B68B300D0C113 /* News Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3BF85FF12C3CCE9E0080AC88 /* NewsViewModel.swift */,
+				3BF85FF52C3CCF390080AC88 /* NewsView.swift */,
+				3BF85FEF2C3CCE5C0080AC88 /* News.swift */,
+			);
+			path = "News Folder";
+			sourceTree = "<group>";
+		};
+		3BE971632C3B68FF00D0C113 /* Team Folder */ = {
+			isa = PBXGroup;
+			children = (
+				3BE9716E2C3B6B8500D0C113 /* TeamViewModel.swift */,
+				3BE971662C3B6ADA00D0C113 /* Team.swift */,
+				3BF85FF92C3CD06D0080AC88 /* TeamsView.swift */,
+				3B384D1E2C4D6DFB00B17EA1 /* TeamDetailView.swift */,
+			);
+			path = "Team Folder";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3BE9714F2C3B67F200D0C113 /* Euro2024App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BE9715E2C3B67F400D0C113 /* Build configuration list for PBXNativeTarget "Euro2024App" */;
+			buildPhases = (
+				3BE9714C2C3B67F200D0C113 /* Sources */,
+				3BE9714D2C3B67F200D0C113 /* Frameworks */,
+				3BE9714E2C3B67F200D0C113 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Euro2024App;
+			packageProductDependencies = (
+				3B5B0A082C41FE910003B179 /* FirebaseAuth */,
+				3B25C1362C4B8E47001B4EC1 /* FirebaseFirestore */,
+				3B25C1382C4B8F4E001B4EC1 /* FirebaseFirestoreSwift */,
+				3B53CC2A2C5A923100B8CFB0 /* SDWebImage */,
+				3B53CC462C5A9AAE00B8CFB0 /* SDWebImageSwiftUI */,
+				3B53CC4B2C5AAE1300B8CFB0 /* FirebaseStorage */,
+			);
+			productName = Euro2024App;
+			productReference = 3BBCC1D02C7E1114008B08E7 /* Euro2024App.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BE971482C3B67F200D0C113 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					3BE9714F2C3B67F200D0C113 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = 3BE9714B2C3B67F200D0C113 /* Build configuration list for PBXProject "Euro2024App" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3BE971472C3B67F200D0C113;
+			packageReferences = (
+				3B5B0A072C41FE910003B179 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				3B53CC292C5A923000B8CFB0 /* XCRemoteSwiftPackageReference "SDWebImage" */,
+				3B53CC2E2C5A924B00B8CFB0 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+				3B53CC452C5A9AAE00B8CFB0 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
+			productRefGroup = 3BE971472C3B67F200D0C113;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BE9714F2C3B67F200D0C113 /* Euro2024App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BE9714E2C3B67F200D0C113 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BE9715B2C3B67F400D0C113 /* Preview Assets.xcassets in Resources */,
+				3BE971582C3B67F400D0C113 /* Assets.xcassets in Resources */,
+				3B5B0A062C41FD430003B179 /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BE9714C2C3B67F200D0C113 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BE971712C3B6BBE00D0C113 /* PlayerViewModel.swift in Sources */,
+				3BF85FF62C3CCF390080AC88 /* NewsView.swift in Sources */,
+				3B179C1A2C51530B00681EFE /* MatchDetailView .swift in Sources */,
+				3B2666B02C452B6800F86BBA /* CustomFields.swift in Sources */,
+				3BE971672C3B6ADA00D0C113 /* Team.swift in Sources */,
+				3B700CA42C518F8E00A238E6 /* Standing.swift in Sources */,
+				3BF85FFC2C3CD0800080AC88 /* PlayerListView.swift in Sources */,
+				3BF85FFA2C3CD06D0080AC88 /* TeamsView.swift in Sources */,
+				3B16B6BF2C628B75000C0ED7 /* ProfileView.swift in Sources */,
+				3B384D1F2C4D6DFB00B17EA1 /* TeamDetailView.swift in Sources */,
+				3BE9716F2C3B6B8500D0C113 /* TeamViewModel.swift in Sources */,
+				3BE971562C3B67F200D0C113 /* ContentView.swift in Sources */,
+				3BF85FF02C3CCE5C0080AC88 /* News.swift in Sources */,
+				3B0BB2892C40DC4000D2771B /* LoginView.swift in Sources */,
+				3BE9716D2C3B6B6C00D0C113 /* MatchViewModel.swift in Sources */,
+				3BD1BB862C4F8CDA00774A67 /* Goal.swift in Sources */,
+				3B53CC4E2C5AAF1D00B8CFB0 /* ImagePicker.swift in Sources */,
+				3BF85FF82C3CD05B0080AC88 /* MatchesView.swift in Sources */,
+				3B0BB28D2C40DD6400D2771B /* MainView.swift in Sources */,
+				3B179C1C2C51554A00681EFE /* Card.swift in Sources */,
+				3B700C972C51774D00A238E6 /* MatchesTabView.swift in Sources */,
+				3B700C9D2C517DA300A238E6 /* LeagueStandingViewModel.swift in Sources */,
+				3B5B0A0D2C4200DA0003B179 /* FirebaseManager.swift in Sources */,
+				3B1570D42C48E859006315A2 /* DismissingKeyboard Modifier.swift in Sources */,
+				3BF85FF22C3CCE9E0080AC88 /* NewsViewModel.swift in Sources */,
+				3BE971542C3B67F200D0C113 /* Euro2024App.swift in Sources */,
+				3B0BB28B2C40DC5200D2771B /* RegisterView.swift in Sources */,
+				3B700C992C5177A100A238E6 /* LeagueStandingView.swift in Sources */,
+				3BE971692C3B6AED00D0C113 /* Player.swift in Sources */,
+				3BE971652C3B6ABD00D0C113 /* Match.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3BE9715C2C3B67F400D0C113 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3BE9715D2C3B67F400D0C113 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BE9715F2C3B67F400D0C113 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Euro2024App/Preview Content\"";
+				DEVELOPMENT_TEAM = 62H45AGD5M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erturkeryavuz.Euro2024App;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3BE971602C3B67F400D0C113 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Euro2024App/Preview Content\"";
+				DEVELOPMENT_TEAM = 62H45AGD5M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erturkeryavuz.Euro2024App;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BE9714B2C3B67F200D0C113 /* Build configuration list for PBXProject "Euro2024App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BE9715C2C3B67F400D0C113 /* Debug */,
+				3BE9715D2C3B67F400D0C113 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BE9715E2C3B67F400D0C113 /* Build configuration list for PBXNativeTarget "Euro2024App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BE9715F2C3B67F400D0C113 /* Debug */,
+				3BE971602C3B67F400D0C113 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3B53CC292C5A923000B8CFB0 /* XCRemoteSwiftPackageReference "SDWebImage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImage";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.19.5;
+			};
+		};
+		3B53CC2E2C5A924B00B8CFB0 /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.2;
+			};
+		};
+		3B53CC452C5A9AAE00B8CFB0 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.1.1;
+			};
+		};
+		3B5B0A072C41FE910003B179 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.29.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3B25C1362C4B8E47001B4EC1 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = FirebaseFirestore;
+		};
+		3B25C1382C4B8F4E001B4EC1 /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = FirebaseFirestoreSwift;
+		};
+		3B53CC2A2C5A923100B8CFB0 /* SDWebImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3B53CC292C5A923000B8CFB0 /* XCRemoteSwiftPackageReference "SDWebImage" */;
+			productName = SDWebImage;
+		};
+		3B53CC462C5A9AAE00B8CFB0 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3B53CC452C5A9AAE00B8CFB0 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+		3B53CC4B2C5AAE1300B8CFB0 /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3B5B0A072C41FE910003B179 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		3B5B0A082C41FE910003B179 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3B5B0A072C41FE910003B179 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 3BE971482C3B67F200D0C113 /* Project object */;
+}
