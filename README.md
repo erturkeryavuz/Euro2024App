@@ -57,6 +57,14 @@ Efficient handling and processing of structured data using JSON files.
 Follow these steps to run the project:
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/erturkeryavuz/Euro2024App.git
-cd Euro2024App
+    ```bash
+   git clone https://github.com/erturkeryavuz/Euro2024App.git
+   cd Euro2024App
+
+
+## 📧 Contact
+If you have any questions or suggestions about this project, feel free to reach out:
+
+- **GitHub**: [@erturkeryavuz](https://github.com/erturkeryavuz)
+- **Email**: [erturkeryavuz@gmail.com](mailto:erturkeryavuz@gmail.com)
+- **LinkedIn**: [Ertürk Eryavuz](https://www.linkedin.com/in/ertürk-eryavuz-083b76282)
