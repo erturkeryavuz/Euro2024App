@@ -85,7 +85,7 @@ Real-Time Database Rules: Firestore is configured with strict rules to prevent u
 
 Data Encryption: All communication with Firebase is encrypted using HTTPS.
 
-Ensure your Firebase rules are properly configured for maximum security. For example:
+Ensure your Firebase rules are properly configured for maximum security.
 
   ```json
 rules_version = '2';
