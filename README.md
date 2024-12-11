@@ -52,12 +52,13 @@ Efficient handling and processing of structured data using JSON files.
   - SwiftUI Framework
 
 ---
-📜 License
+
+## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 Euro2024App/
 ├── Assets/
@@ -71,7 +72,8 @@ Euro2024App/
 │   └── ViewModels/       # Logic for connecting models and views
 
 ---
-🔒 Data Privacy and Security
+
+## 🔒 Data Privacy and Security
 
 User data security is a priority in Euro2024App. Here are the measures implemented:
 
@@ -97,6 +99,7 @@ Ensure your Firebase rules are properly configured for maximum security. For exa
 
 
 ---
+
 ## 📲 Installation
 Follow these steps to set up and run the project:
 
@@ -128,7 +131,10 @@ open Euro2024App.xcworkspace
 
 Select a simulator or a connected device in Xcode, then click the Run button or use the shortcut Cmd+R.
 
+---
+
 ## 📧 Contact
+
 If you have any questions or suggestions about this project, feel free to reach out:
 
 - **GitHub**: [@erturkeryavuz](https://github.com/erturkeryavuz)
