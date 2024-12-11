@@ -88,18 +88,20 @@ Data Encryption: All communication with Firebase is encrypted using HTTPS.
 Ensure your Firebase rules are properly configured for maximum security. For example:
 
   ```json
-    {
-    "rules": {
-    "users": {
-      "$uid": {
-        ".read": "auth != null && auth.uid == $uid",
-        ".write": "auth != null && auth.uid == $uid"
-      }
-    }
-    }
-    }
-```
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+ 
+      allow read: if false;
 
+   
+      allow write: if false;
+    }
+  }
+}
+
+```
 ---
 
 ## 📲 Installation
