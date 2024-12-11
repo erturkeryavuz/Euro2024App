@@ -52,13 +52,81 @@ Efficient handling and processing of structured data using JSON files.
   - SwiftUI Framework
 
 ---
+📜 License
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+---
+
+📂 Project Structure
+
+Euro2024App/
+├── Assets/
+│   ├── Images/           # Player and team images
+│   └── JSON/             # Preloaded data for matches, teams, and players
+├── Firebase/
+│   ├── FirebaseManager.swift # Firebase integration logic
+├── App/
+│   ├── Views/            # SwiftUI views for the user interface
+│   ├── Models/           # Data models for matches, teams, and players
+│   └── ViewModels/       # Logic for connecting models and views
+
+---
+🔒 Data Privacy and Security
+
+User data security is a priority in Euro2024App. Here are the measures implemented:
+
+Secure Authentication: Firebase Authentication ensures secure user sign-in with email and password.
+
+Real-Time Database Rules: Firestore is configured with strict rules to prevent unauthorized access.
+
+Data Encryption: All communication with Firebase is encrypted using HTTPS.
+
+Ensure your Firebase rules are properly configured for maximum security. For example:
+
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid == $uid",
+        ".write": "auth != null && auth.uid == $uid"
+      }
+    }
+  }
+}
+
+
+
+---
 ## 📲 Installation
-Follow these steps to run the project:
+Follow these steps to set up and run the project:
 
-### 1. Clone the Repository
-    git clone https://github.com/erturkeryavuz/Euro2024App.git
-    cd Euro2024App
+1. Clone the Repository
+
+git clone https://github.com/erturkeryavuz/Euro2024App.git
+cd Euro2024App
+
+2. Configure Firebase
+
+Go to the Firebase Console and create a new project.
+
+Download the GoogleService-Info.plist file from the Firebase settings for your project.
+
+Place the GoogleService-Info.plist file in the root directory of the Xcode project.
+
+3. Install Dependencies
+
+Ensure you have Xcode and CocoaPods installed:
+
+sudo gem install cocoapods
+pod install
+
+Open the .xcworkspace file in Xcode:
+
+open Euro2024App.xcworkspace
+
+4. Run the Application
+
+Select a simulator or a connected device in Xcode, then click the Run button or use the shortcut Cmd+R.
 
 ## 📧 Contact
 If you have any questions or suggestions about this project, feel free to reach out:
