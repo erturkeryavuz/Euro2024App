@@ -61,9 +61,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## 📂 Project Structure
-
-Euro2024App/ ├── Assets/ │ ├── Images/ # Player and team images │ └── JSON/ # Preloaded data for matches, teams, and players ├── Firebase/ │ ├── FirebaseManager.swift # Firebase integration logic ├── App/ │ ├── Views/ # SwiftUI views for the user interface │ ├── Models/ # Data models for matches, teams, and players │ └── ViewModels/ # Logic for connecting models and views
-
+```
+Euro2024App/
+├── Assets/
+│   ├── Images/           # Player and team images
+│   └── JSON/             # Preloaded data for matches, teams, and players
+├── Firebase/
+│   ├── FirebaseManager.swift # Firebase integration logic
+├── App/
+│   ├── Views/            # SwiftUI views for the user interface
+│   ├── Models/           # Data models for matches, teams, and players
+│   └── ViewModels/       # Logic for connecting models and views
+```
 ---
 
 ## 🔒 Data Privacy and Security
@@ -78,7 +87,7 @@ Data Encryption: All communication with Firebase is encrypted using HTTPS.
 
 Ensure your Firebase rules are properly configured for maximum security. For example:
 
-    ```json
+  ```json
     {
     "rules": {
     "users": {
@@ -89,8 +98,7 @@ Ensure your Firebase rules are properly configured for maximum security. For exa
     }
     }
     }
-
-
+```
 
 ---
 
