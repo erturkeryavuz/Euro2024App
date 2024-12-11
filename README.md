@@ -1,6 +1,6 @@
 # Euro2024App
 
-**Euro2024App** is an iOS application developed for the UEFA European Football Championship. It allows users to view match details, team statistics, and player information. Built with SwiftUI and Firebase, it features a modern software architecture.
+**Euro2024App** is an iOS application developed for the UEFA European Football Championship. It allows users to view match details, team statistics, and player information. It is built with SwiftUI and Firebase, showcasing a modern software architecture.
 
 ---
 
@@ -55,21 +55,14 @@ Efficient handling and processing of structured data using JSON files.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 ---
 
 ## 📂 Project Structure
 
-Euro2024App/
-├── Assets/
-│   ├── Images/           # Player and team images
-│   └── JSON/             # Preloaded data for matches, teams, and players
-├── Firebase/
-│   ├── FirebaseManager.swift # Firebase integration logic
-├── App/
-│   ├── Views/            # SwiftUI views for the user interface
-│   ├── Models/           # Data models for matches, teams, and players
-│   └── ViewModels/       # Logic for connecting models and views
+Euro2024App/ ├── Assets/ │ ├── Images/ # Player and team images │ └── JSON/ # Preloaded data for matches, teams, and players ├── Firebase/ │ ├── FirebaseManager.swift # Firebase integration logic ├── App/ │ ├── Views/ # SwiftUI views for the user interface │ ├── Models/ # Data models for matches, teams, and players │ └── ViewModels/ # Logic for connecting models and views
 
 ---
 
@@ -85,16 +78,17 @@ Data Encryption: All communication with Firebase is encrypted using HTTPS.
 
 Ensure your Firebase rules are properly configured for maximum security. For example:
 
-{
-  "rules": {
+    ```json
+    {
+    "rules": {
     "users": {
       "$uid": {
         ".read": "auth != null && auth.uid == $uid",
         ".write": "auth != null && auth.uid == $uid"
       }
     }
-  }
-}
+    }
+    }
 
 
 
@@ -110,11 +104,11 @@ cd Euro2024App
 
 2. Configure Firebase
 
-Go to the Firebase Console and create a new project.
+Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
 
 Download the GoogleService-Info.plist file from the Firebase settings for your project.
 
-Place the GoogleService-Info.plist file in the root directory of the Xcode project.
+Add the GoogleService-Info.plist file to the root directory of your Xcode project.
 
 3. Install Dependencies
 
